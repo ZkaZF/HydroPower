@@ -28,14 +28,4 @@ P = ρ × g × Q × H × η
 | H | Net Head | Input user (meter) |
 | η | Efisiensi | Input user (%) |
 
-## 🚀 Deploy ke GitHub Pages
 
-```bash
-git init
-git add .
-git commit -m "feat: HydroPower Estimator"
-git remote add origin https://github.com/USERNAME/tugasKia.git
-git push -u origin main
-```
-
-Lalu aktifkan di: **Settings → Pages → Source: main / root**
